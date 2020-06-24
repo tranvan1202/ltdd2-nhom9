@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Chapter 1</string>
+    <string name="tieude">Management</string>
+    <string name="hoten">Information</string>
+    <string name="masv">Student ID</string>
+    <string name="tensv">Student Name</string>
+    <string name="ngaysinh">Student Birthday</string>
+    <string name="btnthem">Add</string>
+    <string name="btnthoat">Exit</string>
+    <string name="danhsach">Student list</string>
+    <string name="thongtin">Function</string>
+</resources>

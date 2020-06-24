@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Chương 1</string>
+    <string name="btnthem">Thêm</string>
+    <string name="btnthoat">Thoát</string>
+    <string name="danhsach">Danh Sách Sinh Viên</string>
+    <string name="hoten">Thông Tin</string>
+    <string name="masv">Mã Sinh Viên</string>
+    <string name="ngaysinh">Ngày Sinh</string>
+    <string name="tensv">Tên Sinh Viên</string>
+    <string name="thongtin">Chức Năng</string>
+    <string name="tieude">Quản Lý Sinh Viên</string>
+</resources>

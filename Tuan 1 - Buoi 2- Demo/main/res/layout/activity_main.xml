@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <TextView
+        style="@style/tieude"
+        android:text="@string/tieude" />
+
+    <EditText
+
+        style="@style/hoten"
+        android:text="@string/hoten" />
+
+    <EditText
+        android:id="@+id/txtMa"
+        style="@style/txt"
+        android:hint="@string/masv"
+        />
+    <EditText
+        android:id="@+id/txtNgaySinh"
+        style="@style/txt"
+        android:hint="@string/tensv"
+        />
+    <EditText
+
+        style="@style/txt"
+        android:hint="@string/ngaysinh"/>
+    <TextView
+        style="@style/hoten"
+        android:text="@string/thongtin"/>
+    <LinearLayout
+        style="@style/comboButton">
+        <Button
+            android:id="@+id/btnAdd"
+            android:text="Thêm"
+            android:background="@drawable/them"
+            style="@style/btnimage1"
+            />
+        <Button
+            android:id="@+id/btnExit"
+            android:background="@drawable/exit"
+            style="@style/btnimage"
+            />
+        <Button
+            android:id="@+id/btnswap"
+            style="@style/btnimage"
+            android:background="@drawable/swap"
+            android:layout_marginLeft="5dp"
+            />
+    </LinearLayout>
+    <TextView
+        style="@style/hoten"
+        android:text="@string/danhsach"/>
+
+    <ListView
+        style="@style/lv"
+        android:layout_height="350dp" />
+</LinearLayout>
