@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Advanced interface</string>
+    <string name="appname">Student Management</string>
+    <string name="chucnang">Function</string>
+    <string name="diachi">Enter the Address</string>
+    <string name="ds">Student List</string>
+    <string name="hoTen">Enter Your Name</string>
+    <string name="ma">Enter the Student Code</string>
+    <string name="them">Add</string>
+    <string name="thoat">Exit</string>
+    <string name="thongtin">Student information</string>
+</resources>

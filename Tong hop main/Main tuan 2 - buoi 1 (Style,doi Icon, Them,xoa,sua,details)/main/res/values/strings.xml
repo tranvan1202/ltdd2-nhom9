@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Giao diện nâng cao</string>
+    <string name="appname">Quản Lý Sinh Viên</string>
+    <string name="thongtin">Thông Tin Sinh Viên</string>
+    <string name="hoTen">Nhập Họ Tên</string>
+    <string name="ma">Nhập Mã Sinh Viên</string>
+    <string name="diachi">Nhập Địa Chỉ</string>
+    <string name="chucnang">Chức Năng</string>
+    <string name="them">Thêm</string>
+    <string name="thoat">Thoát</string>
+    <string name="ds">Danh Sách Sinh Viên</string>
+
+</resources>
