@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Quản lý đơn đặt hàng sản phẩm</string>
+    <string name="appname">Danh sách khách hàng</string>
+    <string name="thongtin">Thông Tin Khách Hàng</string>
+    <string name="hoTen">Nhập Họ Tên</string>
+    <string name="ma">Nhập Mã Khách Hàng</string>
+    <string name="diachi">Nhập Địa Chỉ</string>
+    <string name="sodt">Nhập số điện thoại</string>
+    <string name="chucnang">Chức Năng</string>
+    <string name="them">Thêm</string>
+    <string name="thoat">Thoát</string>
+    <string name="ds">Danh Sách Khách Hàng</string>
+
+</resources>
